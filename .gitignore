@@ -6,3 +6,4 @@ build/
 .env
 dist/
 node_modules/
+*.tmp
